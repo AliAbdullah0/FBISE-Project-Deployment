@@ -1,6 +1,6 @@
 import React, { useRef, useEffect } from 'react';
 import { Link } from 'react-router-dom';
-import { WavyBackground } from './ui/wavy-background';
+import WavyBackground from './ui/Wavy-background'
 
 function HeroSection() {
 
